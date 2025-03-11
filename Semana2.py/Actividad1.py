@@ -6,3 +6,4 @@ for i in range(1,101):
         sum += i
 
 print(f"La suma de los números pares es: {sum}")
+

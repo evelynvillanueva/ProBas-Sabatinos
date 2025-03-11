@@ -1,4 +1,4 @@
-#Ejericio 3: Números primos. Descripción: Escribe in programa que determine si un número dado por el usuario es primo o no. 
+#Ejericio 3: Números primos. Descripción: Escribe un programa que determine si un número dado por el usuario es primo o no. 
 
 num = int(input("Ingresa el número del que deseas saber si es primo: "))
 

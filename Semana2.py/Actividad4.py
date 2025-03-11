@@ -13,3 +13,5 @@ if 1 <= n <= 50:
 
 else: 
     print("El número debe estar entre 1 y 50.")
+
+    

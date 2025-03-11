@@ -7,3 +7,4 @@ numeros = [int(a) for a in valores.split()]
 suma = sum(numeros)
 
 print(f"La suma de los elementos es: {suma}")
+

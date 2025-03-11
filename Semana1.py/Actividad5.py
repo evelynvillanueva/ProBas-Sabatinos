@@ -6,3 +6,4 @@ d = float(input("Ingrese el porcentaje de descuento: "))
 pfinal = p - (p * d / 100)
 
 print(f"El precio final del producto con el descuento es de: {pfinal}")
+

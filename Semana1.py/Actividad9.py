@@ -7,3 +7,4 @@ c3 = float(input("Ingrese la tercera calificación: "))
 prom = (c1 + c2 + c3) / 3
 
 print(f"El promedio de las calcificaciones es: {prom}")
+

@@ -6,3 +6,4 @@ fahrenheit = (celsius * 9/5) + 32
 kelvin = celsius + 273.15
 
 print(f"{celsius}°C es igual a {fahrenheit}°F y {kelvin}K")
+

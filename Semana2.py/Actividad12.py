@@ -11,3 +11,4 @@ for i in range(cantidad):
 numeros.sort()
 
 print(f"La lista ordenada de menor a mayor es: {numeros}")
+

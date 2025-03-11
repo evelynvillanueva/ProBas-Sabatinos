@@ -10,3 +10,4 @@ for letra in texto:
         contador += 1
 
 print(f"El número de vocales es: {contador}")
+

@@ -11,3 +11,4 @@ for a in texto:
         conteo += 1
 
 print(f"El carácter '{caracter}' aparece {conteo} veces.")
+

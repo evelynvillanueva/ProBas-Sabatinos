@@ -1,5 +1,4 @@
-#Ejercicio1: Calculadora Básica. Descripción:
-#Escribe un programa que solicite al usuario dos números enteros y realice las operaciones aritméticas básicas (suma, resta, multiplicación, división, división de piso y residuo) entre ellos. Muestra los resultados en pantalla.
+#Ejercicio1: Calculadora Básica. Descripción: Escribe un programa que solicite al usuario dos números enteros y realice las operaciones aritméticas básicas (suma, resta, multiplicación, división, división de piso y residuo) entre ellos. Muestra los resultados en pantalla.
 
 a = int(input("Ingrese el número a: "))
 b = int(input("Ingrese el número b: "))

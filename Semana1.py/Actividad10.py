@@ -6,3 +6,4 @@ al = float(input("Ingrese la altura del triángulo: "))
 ar = (b * al) / 2
 
 print("El área del triángulo es:", ar)
+
