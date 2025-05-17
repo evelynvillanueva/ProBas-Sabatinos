@@ -16,7 +16,7 @@ def ingrese_las_compras():
             print("Ingrese los valores correctos y válidos de la cantidad y el precio.")
 
 def calcular_total():
-    total = sum(cantidad * precio for _, precio in compras)
+    total = sum(cantidad * precio_unitario for producto, cantidad, precio_unitario in compras)
     return total 
 
 ingrese_las_compras()
